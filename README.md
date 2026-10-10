@@ -25,7 +25,7 @@ This is a multifunctional Telegram bot built using **Python** and **pyTelegramBo
     cd HelpfulBot
     
     Install the required libraries: pip install -r requirements.txt
-2. Open `design.py`
+2. Open `bot.py`
 3. Replace the placeholder in the code with your own **Telegram Bot Token**.
 4. Run the bot:
 
